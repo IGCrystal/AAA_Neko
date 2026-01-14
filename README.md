@@ -13,4 +13,3 @@ A simple AstrBot plugin marketplace page for showcasing plugins for the AstrBot 
 * 📦 Browse all available AstrBot plugins
 * 🔍 Search for specific plugins
 * 🌓 Support for dark/light theme switching
-
