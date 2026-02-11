@@ -17,15 +17,16 @@
     "@vicons/ionicons5": "^0.13.0",
     "axios": "^1.13.2",
     "highlight.js": "^11.11.1",
-    "naive-ui": "^2.43.1",    
     "marked": "^17.0.0",
+    "naive-ui": "^2.43.1",
     "pinia": "^3.0.4"
   },
   "devDependencies": {
+    "@types/node": "^24.10.1",
+    "baseline-browser-mapping": "^2.9.19",
+    "cross-env": "^10.1.0",
     "nuxt": "^4.2.1",
     "nuxtjs-naive-ui": "^1.0.2",
-    "cross-env": "^10.1.0",
-    "@types/node": "^24.10.1",
     "typescript": "^5.9.3",
     "vue-tsc": "^3.1.4"
   }
