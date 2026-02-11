@@ -25,7 +25,7 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     public: {
-      siteUrl: runtimeEnv.NUXT_PUBLIC_SITE_URL ?? ''
+      siteUrl: runtimeEnv.NUXT_PUBLIC_SITE_URL ?? 'https://plugins.astrbot.app'
     }
   },
   imports: {
